@@ -1,0 +1,14 @@
+Variables = funcionan como una caja, sirven para guardar distintos tipos de datos, se pueden modificar
+
+String = son datos de caracteres, letras, encerradas entre comillas S o D
+
+Booleans = son datos que devuelven V o F, siguen una logica, esto o aquello
+
+Undefined = un valor que no existe, una variable sin valor, config por JAVA
+
+Null = este valor si existe, tiene un valor = 0 (null), config por DESARROLLADOR
+
+Operadores = +,-,*,/, % = modulo, devuelve resto de divisiòn. 
+   
+            = asignacion == igual a // 1=="1"//  === mismo que (tipo dato) ! negacion != no es !== diferente a (tipo dato tmb) <= menor que >= mayor que
+            && (and) si esto *Y* esto //solo V si ambas lo son// II (or) esto *O* esto (si una es V, devuelve V)// ! (not) esto *NO* // devuelve lo contrario//
